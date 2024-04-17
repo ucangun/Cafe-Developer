@@ -1,0 +1,37 @@
+.common {
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  filter: grayscale(30%);
+}
+
+.first-page {
+  background-image: url(../img/bg1.jpg);
+  height: 100%;
+}
+
+.second-page {
+  background-image: url(../img/bg2.jpg);
+  height: 80%;
+}
+
+.third-page {
+  background-image: url(../img/bg3.jpg);
+  height: 80%;
+}
+
+.fourth-page {
+  background-image: url(../img/bg4.jpg);
+  height: 80%;
+}
+
+.fifth-page {
+  background-image: url(../img/bg5.jpg);
+  height: 100%;
+}

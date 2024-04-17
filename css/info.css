@@ -1,0 +1,12 @@
+.info-section {
+  padding: 6rem 4rem;
+  text-align: center;
+}
+
+.info-section__light {
+  background-color: #fff4e6;
+}
+
+.info-section__dark {
+  background-color: #ffe3e3;
+}
