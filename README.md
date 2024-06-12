@@ -19,6 +19,7 @@ The primary objective of this project is to enhance and showcase my skills in HT
 ```
 
 ## Outcome
+![Cafe Developer](https://github.com/ucangun/Cafe-Developer/assets/149247682/f52f4e94-6564-4579-a5b2-d97382b15764)
 
 
 ## Technologies Used
